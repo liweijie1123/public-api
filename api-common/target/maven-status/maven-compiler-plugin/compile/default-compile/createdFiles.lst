@@ -1,0 +1,6 @@
+org\magod\apicommon\service\InnerInterfaceInfoService.class
+org\magod\apicommon\service\InnerUserInterfaceInfoService.class
+org\magod\apicommon\service\InnerUserService.class
+org\magod\apicommon\model\entity\InterfaceInfo.class
+org\magod\apicommon\model\entity\UserInterfaceInfo.class
+org\magod\apicommon\model\entity\User.class
